@@ -1,3 +1,20 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-06 08:02+0000\n"
+"PO-Revision-Date: 2024-08-06 08:02+0000\n"
+"Last-Translator: PURNAMALLAVOLU <purna280596@gmail.com>\n"
+"Language-Team: German <https://weblate.automatedevops.world/projects/"
+"language-names/superfecta/de/>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6.2\n"
+
 #: Superfecta.class.php:225 Superfecta.class.php:227 Superfecta.class.php:231
 #: Superfecta.class.php:233 Superfecta.class.php:237 Superfecta.class.php:239
 #: Superfecta.class.php:255 Superfecta.class.php:257 Superfecta.class.php:267
@@ -8,7 +25,7 @@ msgstr ""
 
 #: functions.inc.php:50 views/scheme.php:204
 msgid "ALL"
-msgstr ""
+msgstr "All"
 
 #: includes/oauth-google/oauth2callback.php:55 views/main.php:25
 msgid "Actions"
