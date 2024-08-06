@@ -10,16 +10,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-06 04:27+0000\n"
-"PO-Revision-Date: 2016-12-11 12:35+0200\n"
-"Last-Translator: Ernesto <ecasas@sangoma.com>\n"
-"Language-Team: Spanish <http://weblate.freepbx.org/projects/freepbx/"
-"superfecta/es_ES/>\n"
+"PO-Revision-Date: 2024-08-06 08:02+0000\n"
+"Last-Translator: purnasaivolu4 <purnasaivolu4@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.automatedevops.world/projects/"
+"language-names/superfecta/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.4\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #: Superfecta.class.php:225 Superfecta.class.php:227 Superfecta.class.php:231
 #: Superfecta.class.php:233 Superfecta.class.php:237 Superfecta.class.php:239
@@ -55,7 +55,7 @@ msgstr ""
 
 #: views/add_scheme.php:348 views/scheme.php:137
 msgid "Available Encodings"
-msgstr ""
+msgstr "Available encodings"
 
 #: Superfecta.class.php:246
 msgid "Bypassing character conversion."
